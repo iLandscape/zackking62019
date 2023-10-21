@@ -1,0 +1,133 @@
+body {
+    background-color: rgb(200, 232, 255);
+  }
+  .companyname {
+    font-size: 10vw;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 1vw;
+    -webkit-text-fill-color:  rgb(0, 60, 0);
+    background-color:  rgb(227, 248, 255);
+    border-radius: 7vw;
+    border-style: solid;
+    border-color: rgb(0, 60, 0);;
+    display: block;
+  }
+  .banner {
+    width: 90vw;
+    border-radius: 45vw;
+    margin-top: -9vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: rgb(0, 60, 0);;    
+  }
+  .mission {
+    font-size: 4vw;
+    margin-top: 1vw;
+    text-align: center;
+    
+    width: 90vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-text-fill-color:  rgb(0, 60, 0);
+    background-color: rgb(227, 248, 255);
+    border-radius: 7vw;
+    border-color: rgb(0, 60, 0);;
+    border-style: solid;   
+  } 
+  .info {
+    font-family: monospace;
+    font-size: 8vw;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -3vw;
+    -webkit-text-fill-color:  rgb(0, 60, 0);
+    background-color: rgb(227, 248, 255);
+    border-radius: 5vw;
+    border-color: rgb(0, 60, 0);;
+    border-style: solid;
+  }  
+  .freequote {
+    font-family: monospace;
+    font-size: 13vw;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -7vw;
+    -webkit-text-fill-color: rgb(255, 0, 0);
+    background-color: rgb(227, 248, 255);
+    border-radius: 8vw;
+    border-color: rgb(0, 60, 0);;
+    border-style: solid;
+  }
+  .buttonconfig{
+    background-color: rgb(227, 248, 255);
+    border-radius: 5vw;
+    border-color: rgb(0, 60, 0);;
+    border-style: solid;
+  }
+  .callnowgroup {
+    margin-top: -16vw; 
+  }
+  .callnow {
+    font-family: monospace;
+    width: 30vw;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 3vw;
+    display: inline-block;
+    margin-left: .33333333vw;
+    -webkit-text-fill-color: rgb(0, 60, 0);   
+  }      
+  .button {
+    width: 30vw;
+    margin-top: -10vw;
+    height: 100px;   
+  }
+  .buttons {
+    text-align: center;
+    display: block;
+    margin-bottom: 2vw;  
+  }
+ .description1 {
+    font-family: monospace;
+    font-size: 4vw;
+    font-weight: bold;
+    margin-top: -3vw;
+    text-align: center;
+    background-color: rgb(227, 248, 255);
+    border-radius: 5vw;
+    border-color: rgb(0, 60, 0);;
+    -webkit-text-fill-color: rgb(0, 60, 0);
+    border-style: solid;
+    display: block;
+  }
+  .pics {
+    margin-top: -4vw;
+    margin-bottom: 5vw;
+    border-radius: 20vw;
+    display: block;
+    width: 90vw;
+    background-color: rgb(227, 248, 255);
+    border-color: rgb(0, 60, 0);;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  @media screen and (max-width: 991px) {
+/* start of large tablet styles */
+
+}
+
+@media screen and (max-width: 767px) {
+/* start of medium tablet styles */
+
+}
+
+@media screen and (max-width: 479px) {
+/* start of phone styles */
+
+}
